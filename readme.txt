@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 git tracks chages.
 My boss is a stupid man.
 
+我会好好过,我是爱你的!
+
